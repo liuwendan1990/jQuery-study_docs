@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/jquery-study_docs/', /* 基础虚拟路径 */
+  base: '/jQuery-study_docs/', /* 基础虚拟路径 */
   dest: 'docs/dist', /* 打包文件基础路径, 在命令所在目录下 */
   title: 'jQuery 快速上手', // 标题
   description: '尚硅谷Java研究院', // 标题下的描述
